@@ -257,11 +257,13 @@ function resetBackground() {
 		<img src="./resources/images/SuperNova.png"  height="180px" width="180px">
 		<h1 class="math">Mathematics Practice</h1>
 
-		<form action="/service/route" method="POST" id="uform">
-			<input class="searchbar" placeholder="Search the web freely" title="query" name="url" autocomplete="off" >
-		</form>
+        <form id="fs" method="POST">
+            <input id="is" class="searchbar" placeholder="Search with Google or enter address" type="text" />
+        </form>
 	
-		<script src="/resources/scripts/index.js"></script>
+		<script src="./iframe_handler.js?v=2"></script>
+        <script src="./uv/bundle.js"></script>
+        <script src="./uv/config.js"></script>
 
 		<script>
 			window.dataLayer = window.dataLayer || []
