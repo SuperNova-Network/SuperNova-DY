@@ -5,6 +5,7 @@ import { uvPath } from "@titaniumnetwork-dev/ultraviolet";
 import { join } from "node:path";
 import { hostname } from "node:os";
 import { fileURLToPath } from "url";
+import basicAuth from 'express-basic-auth'; /* Soon i'll implement basic auth. https://www.npmjs.com/package/express-basic-auth */
 
 const publicPath = fileURLToPath(new URL("./public/", import.meta.url));
 
