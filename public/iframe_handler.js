@@ -4,7 +4,7 @@ const input = document.getElementById('is')
 if (form && input) {
   form.addEventListener('submit', async (event) => {
     event.preventDefault()
-    processUrl(input.value) /* Change to : processUrl(input.value, '/&') if you want a url variable.*/
+    processUrl(input.value) // Change to : processUrl(input.value, '/&') if you want a url variable.
   })
 }
 
@@ -31,7 +31,7 @@ function processUrl(value, path) {
 }
 
 function go(value) {
-  processUrl(value, false) /* Change to : processUrl(value, '/&') if you want a url variable.*/
+  processUrl(value, false) // Change to : processUrl(value, '/&') if you want a url variable.
 }
 
 function blank(value) {
