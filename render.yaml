@@ -1,5 +1,0 @@
-services:
-  - type: web
-    name: supernova
-    env: docker
-    plan: free

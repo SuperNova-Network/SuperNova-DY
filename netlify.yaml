@@ -1,0 +1,5 @@
+build:
+  command: yarn install
+  commandOrigin: ui
+  publish: /opt/build/repo/web-build
+  publishOrigin: ui
