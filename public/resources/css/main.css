@@ -142,6 +142,16 @@ body {
   margin-bottom: -15px; /* Adjust the value as per your preference */
 }
 
+.tiwFooter {
+  width: 100%;
+  position: fixed;
+  bottom: 71px;
+  padding: 24px 0;
+  text-align: center;
+  color: rgb(215 88 197);
+  letter-spacing: 4px;
+}
+
 .searchbar {
   padding: 12px;
   width: 503px;
