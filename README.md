@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="260px" src="https://cdn.discordapp.com/attachments/1121942874871824518/1121943072876536000/image.png">
+<img width="260px" src="https://cdn.discordapp.com/attachments/1121942874871824518/1121943073224671262/supernovadcicon.png?ex=65fe1269&is=65eb9d69&hm=e7f3bb86264e79915af361d2c77df003d4f62c33207418cbe2ad2484f37a9c61&">
 
 # SuperNova
 
