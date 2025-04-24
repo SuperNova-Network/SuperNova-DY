@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="260px" src="https://cdn.discordapp.com/attachments/1121942874871824518/1121943073224671262/supernovadcicon.png?ex=65fe1269&is=65eb9d69&hm=e7f3bb86264e79915af361d2c77df003d4f62c33207418cbe2ad2484f37a9c61&">
+<img width="260px" src="https://raw.githubusercontent.com/SuperNova-Network/SuperNova-DY/refs/heads/main/public/resources/images/image1.webp">
 
 # SuperNova | Version #1
 
@@ -23,7 +23,7 @@ SuperNova is a very fast proxy using **dynamic** If you would like to deploy and
 
 
 
-![SuperNova](https://media.discordapp.net/attachments/1123937882168623135/1126338198847627384/image.png?width=1440&height=627)
+![SuperNova](https://cdn.discordapp.com/attachments/1121030074108477461/1182490481377157240/68747470733a2f2f6d656469612e646973636f72646170702e6e65742f6174746163686d656e74732f313132333933373838323136383632333133352f313132363333383139383834373632373338342f696d6167652e706e673f77696474683d31343430266865696768743d363237.png?ex=680a3954&is=6808e7d4&hm=dea69ef7a9f2b341007fc9c9e90f7661b13e295a467e81bea6f69e218a0c54ae&format=webp&quality=lossless&width=1542&height=671)
 
 </div>
 
